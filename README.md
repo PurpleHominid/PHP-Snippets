@@ -1,4 +1,5 @@
 # PHP-Snippets
+This document provide copies of my frequent setups, snippets, etc
 
 ```
 	//setup default environment
